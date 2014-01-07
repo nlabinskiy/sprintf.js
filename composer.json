@@ -1,5 +1,15 @@
 {
   "name": "components/sprintf-js",
   "description": "JavaScript sprintf implementation for the browser and node.js..",
-  "type": "component"
+  "type": "component",
+  "extra": {
+    "component": {
+      "scripts": [
+        "src/sprintf.js"
+      ],
+      "files": [
+        "src/sprintf.min.js"
+      ]
+    }
+  }
 }
