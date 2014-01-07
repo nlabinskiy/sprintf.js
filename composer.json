@@ -5,9 +5,7 @@
   "extra": {
     "component": {
       "scripts": [
-        "src/sprintf.js"
-      ],
-      "files": [
+        "src/sprintf.js",
         "src/sprintf.min.js"
       ]
     }
