@@ -1,0 +1,5 @@
+{
+  "name": "components/sprintf-js",
+  "description": "JavaScript sprintf implementation for the browser and node.js..",
+  "type": "component"
+}
